@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/R.cc54f0b28376026979cec60f47f1469e?rik=6dJpLsTo6fJlJA&pid=ImgRaw&r=0)](https://th.bing.com/th/id/R.cc54f0b28376026979cec60f47f1469e?rik=6dJpLsTo6fJlJA&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Alpha Lencho</h1>
-<h3 align="center">A passionate full stack developer from Ethiopia</h3>
+<h3 align="center"></h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif" >
 
