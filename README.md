@@ -50,15 +50,15 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="ViteJS icon" width="65" height="65" />
-      <br>ViteJS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook icon" width="65" height="65" />
+      <br>Jupyter Notebook
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git icon" />
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git icon" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -76,7 +76,7 @@
       <br>Visual Studio
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator-tsg.vercel.app/python-icon.svg" alt="Python icon" width="48" height="48" />
+      <img src="https://techstack-generator-tsg.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
@@ -96,6 +96,7 @@
   </tr>
 </table>
 <br><br>
+
 
 
 ## 💬 Don't hesitate to reach out to me.
