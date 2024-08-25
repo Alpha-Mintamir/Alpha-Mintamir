@@ -1,40 +1,117 @@
 [![MasterHead](https://th.bing.com/th/id/R.cc54f0b28376026979cec60f47f1469e?rik=6dJpLsTo6fJlJA&pid=ImgRaw&r=0)](https://th.bing.com/th/id/R.cc54f0b28376026979cec60f47f1469e?rik=6dJpLsTo6fJlJA&pid=ImgRaw&r=0)
-<h1 align="center">Hi 👋, I'm Alpha Lencho</h1>
-<h3 align="center"></h3>
+# Hello, I’m [Alpha][website]! 👋
 
-<img align = "right" alt = "coding" width = "400" src = "https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpha-mintamir&label=Profile%20views&color=0e75b6&style=flat" alt="alpha-mintamir" /> </p>
+### My Work Includes: Frontend Web Dev, Data Science, AI and Network Automation 🌠
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpha-mintamir" alt="alpha-mintamir" /></a> </p>
+#### But first, coffee. ☕︎⛾☕︎ ☕
 
-- 🔭 I’m currently working on **Learashu**
 
-- 🌱 I’m currently learning **Networking**
 
-- 👯 I’m looking to collaborate on **Digital menu**
+<br>
 
-- 👨‍💻 All of my projects are available at [Alphalencho.com](Alphalencho.com)
+## 📈 GitHub Stats
 
-- 💬 Ask me about **python, java, c++, C#, CSS, HTML, JS**
+<p align="center"> <a href="https://github.com/Tolegithub7"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Alpha-Mintamir&date_format=M%20j%5B%2C%20Y%5D&background=0C1014&border=242424&stroke=2963BD92&ring=4D90DC&fire=4D90DC&currStreakNum=F0F0F0&sideNums=F0F0F0&currStreakLabel=F0F0F0&sideLabels=F0F0F0&dates=929292"/> </a> </p>
 
-- 📫 How to reach me **Alphalenchoo@gmail.com**
+<br/>
+    <a href="https://github.com/Alpha-Mintamir"><img alt="Alpha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alpha-Mintamir&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0C1014&icon_color=417cbe" /></a>
+  <a href="https://github.com/Alpha-Mintamir"><img alt="Alpha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Mintamir&langs_count=8&count_private=false&layout=compact&theme=github_dark&hide_border=true&bg_color=0C1014" /></a>
 
-- ⚡ Fun fact **I Think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alphityy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphityy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alpha-lencho-13b8281bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alpha-lencho-13b8281bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/alphamintamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/alphamintamir" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/alpha.mintamir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alpha.mintamir/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/alpha_m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/alpha_m/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/alphalenchoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/alphalenchoo" height="30" width="40" /></a>
-</p>
+<b>Note:</b> The Most Used Languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpha-mintamir&show_icons=true&locale=en&layout=compact" alt="alpha-mintamir" /></p>
+<a href="https://github.com/Alpha-Mintamir"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha-Mintamir&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpha-mintamir&show_icons=true&locale=en" alt="alpha-mintamir" /></p>
+<br/>
+
+---
+## 🚀 Technologies I Use as a Full Stack Developer
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP icon" width="65" height="65" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator-tsg.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator-tsg.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator-tsg.vercel.app/csharp-icon.svg" alt="C# icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="ViteJS icon" width="65" height="65" />
+      <br>ViteJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git icon" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS icon" />
+      <br>TailwindCSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code icon" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio icon" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator-tsg.vercel.app/python-icon.svg" alt="Python icon" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub icon" width="48" height="48" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3 icon" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5 icon" />
+      <br>HTML5
+    </td>
+  </tr>
+</table>
+<br><br>
+
+
+## 💬 Don't hesitate to reach out to me.
+
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/alpha-lencho-13b8281bb/)
+&nbsp;
+[<img src="https://img.shields.io/badge/X (fka Twitter)-282C34?logo=x&logoColor=FFFFFF" alt="X logo" title="X" height="25" />](https://x.com/Alphityy)
+&nbsp;
+[<img src="https://img.shields.io/badge/Reddit-282C34?logo=reddit&logoColor=FF4500" alt="Reddit logo" title="Reddit" height="25" />](https://www.reddit.com/user/Alphalll/)
+&nbsp;
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:alphalencho4@gmail.com)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20science%20of%20today%20is%20the%20technology%20of%20tomorrow.&author=Edward%20Teller)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+[website]: https://toled7.my.canva.site/
+
