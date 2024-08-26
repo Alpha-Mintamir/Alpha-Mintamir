@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.cc54f0b28376026979cec60f47f1469e?rik=6dJpLsTo6fJlJA&pid=ImgRaw&r=0)](https://th.bing.com/th/id/R.cc54f0b28376026979cec60f47f1469e?rik=6dJpLsTo6fJlJA&pid=ImgRaw&r=0)
+[![MasterHead]
 # Hello, I’m [Alpha][website]! 👋
 
 
