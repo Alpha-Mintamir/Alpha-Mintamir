@@ -1,4 +1,4 @@
-[![MasterHead]
+
 # Hello, I’m [Alpha][website]! 👋
 
 
