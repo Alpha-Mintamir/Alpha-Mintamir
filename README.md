@@ -1,5 +1,5 @@
 
-# Hello, I’m [Alpha][website]! 👋
+# Hello, I’m Alpha! 👋
 
 
 ### My Work Includes: Frontend Web Dev, Data Science, AI and Network Automation 🌠
