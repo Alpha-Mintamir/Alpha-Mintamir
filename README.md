@@ -1,6 +1,11 @@
-
 # Hello, I’m Alpha! 👋
 
+**LinkedIn | Portfolio | Resume | LeetCode**
+
+* **LinkedIn:** https://www.linkedin.com/in/alpha-lencho-13b8281bb/
+* **Portfolio:** https://alpha-lencho.me//
+* **Resume:** https://github.com/Alpha-Mintamir/Alpha-Mintamirr/blob/main/Alpha%20Lencho%20CV.pdf
+* **LeetCode:** https://leetcode.com/alpha_m
 
 ### My Work Includes: Frontend Web Dev, Data Science, AI and Network Automation 🌠
 
@@ -19,7 +24,7 @@
   <a href="https://github.com/Alpha-Mintamir"><img alt="Alpha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Mintamir&langs_count=8&count_private=false&layout=compact&theme=github_dark&hide_border=true&bg_color=0C1014" /></a>
 
 
-<b>Note:</b> The Most Used Languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
+<b>Note:</b> The Most Used Languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.   
 
   <br/>
 
@@ -58,7 +63,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git icon" />
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"    width="65" height="65" alt="Git    icon" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -102,17 +107,13 @@
 ## 💬 Don't hesitate to reach out to me.
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/alpha-lencho-13b8281bb/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/alpha-lencho-13b8281bb/)   
 &nbsp;
 [<img src="https://img.shields.io/badge/X (fka Twitter)-282C34?logo=x&logoColor=FFFFFF" alt="X logo" title="X" height="25" />](https://x.com/Alphityy)
 &nbsp;
 [<img src="https://img.shields.io/badge/Reddit-282C34?logo=reddit&logoColor=FF4500" alt="Reddit logo" title="Reddit" height="25" />](https://www.reddit.com/user/Alphalll/)
 &nbsp;
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:alphalencho4@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:alphalencho4@gmail.com)   
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20science%20of%20today%20is%20the%20technology%20of%20tomorrow.&author=Edward%20Teller)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-[website]: https://toled7.my.canva.site/
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20science%20of%20today%20is%20the%20technology%20of%20tomorrow.&author=Edward%20Teller)](
